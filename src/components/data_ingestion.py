@@ -74,5 +74,8 @@ if __name__ =="__main__":
     #print(modeltrainer.initiate_model_trainer(train_arr,test_arr))
     # print r2 score and best model 
     print(f"Best Model: {(result := modeltrainer.initiate_model_trainer(train_arr, test_arr))[1]} | R2 Score: {result[0]:.4f}")
+
+    #result = modeltrainer.initiate_model_trainer(train_arr, test_arr)
+    #print(f"Best Model: {result[1]} | R² Score: {result[0]:.4f}")
     
 
