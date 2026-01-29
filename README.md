@@ -1,4 +1,4 @@
-# 🎓 Student Exam Performance Indicator
+#  Student Exam Performance Indicator
 
 An end-to-end Machine Learning project that predicts student math scores based on various demographic and academic factors. The project includes data analysis, model training, and an interactive Streamlit web application for predictions.
 
@@ -7,7 +7,7 @@ An end-to-end Machine Learning project that predicts student math scores based o
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About](#about)
 - [Features](#features)
@@ -19,7 +19,7 @@ An end-to-end Machine Learning project that predicts student math scores based o
 - [Dataset](#dataset)
 - [Contact](#contact)
 
-## 🎯 About
+##  About
 
 This project predicts student math exam scores based on various factors including:
 - Gender
@@ -34,7 +34,7 @@ The project demonstrates a complete ML pipeline from data ingestion to model dep
 
 
 
-## ✨ Features
+##  Features
 
 - **Interactive Web Interface**: Two deployment options - Streamlit and Flask
 - **Real-time Predictions**: Instant math score predictions based on input parameters
@@ -45,7 +45,7 @@ The project demonstrates a complete ML pipeline from data ingestion to model dep
 - **Modular Design**: Organized code structure for easy maintenance
 - **Data Pipeline**: Complete ETL pipeline for data processing
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ML_Project/
@@ -92,7 +92,7 @@ ML_Project/
 └── README.md                      # Project documentation
 ```
 
-## 🚀 Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -131,7 +131,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-## 💻 Usage
+##  Usage
 
 ### Running the Streamlit App
 
@@ -168,7 +168,7 @@ Visit `http://localhost:8000` in your browser
    - Average score
    - Performance analysis
 
-## 🧠 Model Details
+##  Model Details
 
 ### Algorithms Evaluated
 The project evaluates multiple regression algorithms:
@@ -202,7 +202,7 @@ The best performing model is automatically selected based on R² score during tr
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Technologies
 - **Python 3.8+**: Primary programming language
@@ -290,7 +290,7 @@ http://localhost:8000/predictdata
 
 ---
 
-## 🔄 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add user authentication
 - [ ] Implement batch prediction capability
@@ -303,7 +303,7 @@ http://localhost:8000/predictdata
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Ashira Maharjan**
 
