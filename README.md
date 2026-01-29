@@ -173,8 +173,6 @@ Visit `http://localhost:8000` in your browser
 ### Algorithms Evaluated
 The project evaluates multiple regression algorithms:
 - Linear Regression
-- Lasso Regression
-- Ridge Regression
 - K-Neighbors Regressor
 - Decision Tree
 - Random Forest
@@ -199,8 +197,7 @@ The best performing model is automatically selected based on R² score during tr
 
 ### Performance Metrics
 - R² Score
-- Mean Absolute Error (MAE)
-- Root Mean Squared Error (RMSE)
+
 
 ##  Technologies Used
 
